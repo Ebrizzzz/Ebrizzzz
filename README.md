@@ -3,8 +3,8 @@
 - 🌱 I’m currently improving my skills on Power Bi, SQL, Python and understanding of machine learnign models.
 
 - 📫 How to reach me :
-- [LinkedIn](https://www.linkedin.com/in/ebrahim-golriz-03611a34b)
-- E-mail : ebrahimgolriz444@gmail.com
+  - [LinkedIn](https://www.linkedin.com/in/ebrahim-golriz-03611a34b)
+  - E-mail : ebrahimgolriz444@gmail.com
 
   
 - ⚡ Fun fact: I am interested on a lot of other things than i mentioned, but for the sake of this place i keep it like that.
